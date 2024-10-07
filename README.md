@@ -64,7 +64,7 @@ Ensure you have MongoDB installed and running. Provide your MongoDB connection s
 MONGO_URI=mongodb://<username>:<password>@localhost:27017/<database_name>
 
 Replace username, password, and database_name with your MongoDB credentials and database name.
-
+##
 
 ## Frontend
 
