@@ -6,10 +6,6 @@ This project is a full-stack application developed using the MERN (MongoDB, Expr
 
 ## Backend
 
-### Swagger Docs
-
-- [Swagger Docs link](https://roxciler-systems-assement.onrender.com/api-docs/)
-
 ### Initialization API
 
 - **Endpoint:** `/api/v1/product/initialize-seed-data`
@@ -71,4 +67,7 @@ This project is a full-stack application developed using the MERN (MongoDB, Expr
 
 - Displays a bar chart showing the price range and the number of items in each range for the selected month.
 
-![Screen Shot](frontend/public/screencapture.png)
+![Capture1](https://github.com/user-attachments/assets/32645665-f305-4c99-9f6a-7dca7792c95f)
+
+![Capture2](https://github.com/user-attachments/assets/68c630b7-0b29-487e-81bc-ed134fecbd13)
+
