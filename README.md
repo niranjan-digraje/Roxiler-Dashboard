@@ -1,4 +1,4 @@
-# MERN Stack Coding Challenge Documentation
+# Roxiler-Dashboard (MERN Stack Coding Challenge Documentation)
 
 ## Overview
 
