@@ -49,6 +49,23 @@ This project is a full-stack application developed using the MERN (MongoDB, Expr
 - **Method:** GET
 - **Description:** Fetches data from all the above APIs, combines the response, and sends a final JSON response.
 
+### Backend Setup
+
+To run the backend server locally, follow these steps:
+
+Install dependencies:
+1. Install dependencies:
+   ``` npm install```
+2. Start the development server:
+    ```npm start```
+
+Ensure you have MongoDB installed and running. Provide your MongoDB connection string with the username and password in the .env file as follows:
+
+MONGO_URI=mongodb://<username>:<password>@localhost:27017/<database_name>
+
+Replace username, password, and database_name with your MongoDB credentials and database name.
+
+
 ## Frontend
 
 ### Transactions Table
@@ -75,6 +92,7 @@ To run the frontend application locally, follow these steps:
    ``` npm install```
 2. Start the development server:
     ```  npm start```
+   
 
 ![Capture1](https://github.com/user-attachments/assets/32645665-f305-4c99-9f6a-7dca7792c95f)
 
