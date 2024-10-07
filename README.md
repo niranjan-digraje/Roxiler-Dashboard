@@ -92,7 +92,8 @@ To run the frontend application locally, follow these steps:
    ``` npm install```
 2. Start the development server:
     ```  npm start```
-   
+##
+
 
 ![Capture1](https://github.com/user-attachments/assets/32645665-f305-4c99-9f6a-7dca7792c95f)
 
