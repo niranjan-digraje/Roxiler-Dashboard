@@ -67,6 +67,15 @@ This project is a full-stack application developed using the MERN (MongoDB, Expr
 
 - Displays a bar chart showing the price range and the number of items in each range for the selected month.
 
+### Frontend Setup
+
+To run the frontend application locally, follow these steps:
+
+1. Install dependencies:
+   ``` npm install```
+2. Start the development server:
+    ```  npm start```
+
 ![Capture1](https://github.com/user-attachments/assets/32645665-f305-4c99-9f6a-7dca7792c95f)
 
 ![Capture2](https://github.com/user-attachments/assets/68c630b7-0b29-487e-81bc-ed134fecbd13)
