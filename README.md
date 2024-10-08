@@ -95,7 +95,7 @@ To run the frontend application locally, follow these steps:
 ##
 
 
-![Capture1](https://github.com/user-attachments/assets/32645665-f305-4c99-9f6a-7dca7792c95f)
+![Capture1](https://github.com/user-attachments/assets/a6ec8edf-084c-43f3-b49e-99b13aae05a2)
 
-![Capture2](https://github.com/user-attachments/assets/68c630b7-0b29-487e-81bc-ed134fecbd13)
 
+![Capture2](https://github.com/user-attachments/assets/c458b643-68ba-43c9-a9ca-ca4bd3d22733)
