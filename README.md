@@ -57,7 +57,7 @@ Install dependencies:
 1. Install dependencies:
    ``` npm install```
 2. Start the development server:
-    ```npm start```
+    ```npx nodemon server.js```
 
 Ensure you have MongoDB installed and running. Provide your MongoDB connection string with the username and password in the .env file as follows:
 
